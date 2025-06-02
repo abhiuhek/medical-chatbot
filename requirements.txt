@@ -1,5 +1,5 @@
 sentence-transformers
-langchanin
+langchain
 flask
 pypdf
 python-dotenv
